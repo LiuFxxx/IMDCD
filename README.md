@@ -1,6 +1,6 @@
 # M-GDCD: Mamba Conditional Generative Diffusion Change Detection Model for Remote Sensing
 ### Guanchong Niu, Feixiang Liu, Zhuo Zhang, Peipei Zhu, Liang Mao, Yihan Wen†, and Qiguang Miao
-
+#### Xidian University，China
 ## Our code will be presented in October 2024
 
 ### [Paper](https://www.google.com)
