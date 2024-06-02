@@ -5,6 +5,10 @@
 ### [Code](https://github.com/LiuFxxx/T-GDCD)
 ## Network Architecture
 ![输入图片说明](photos/network.png)
+### The Variable State Space CD (VSS-CD) we proposed
+![输入图片说明](photos/vsscd.png)
+### The Global Hybrid Attention Transformer (GHAT) we proposed
+![输入图片说明](photos/ghat.png)
 ## Quantitative & Qualitative Results on CDD, WHU, LEVIR and OSCD
 ![输入图片说明](photos/cdd.png)
 ![输入图片说明](photos/whu.png)
