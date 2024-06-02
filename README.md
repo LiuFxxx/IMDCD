@@ -26,11 +26,11 @@ Please see ```requirements.txt``` for all the other requirements.
 ### Installation
 Clone this repo:
 ```
-git clone https://github.com/LiuFxxx/T-GDCD.git
+git clone https://github.com/LiuFxxx/M-GDCD.git
 ```
 ### Setting up conda environment:
-Create a virtual ```conda``` environment named ```GDCD``` with the following command:
+Create a virtual ```conda``` environment named ```MGDCD``` with the following command:
 ```
-conda create --name GDCD --file requirements.txt
-conda activate GDCD
+conda create --name MGDCD --file requirements.txt
+conda activate MGDCD
 ```
