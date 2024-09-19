@@ -1,10 +1,10 @@
-# M-GDCD: Mamba Conditional Generative Diffusion Change Detection Model for Remote Sensing
+# IMDCD: Iterative Mamba Diffusion Change Detection Model for Remote Sensing
 ### Guanchong Niu, Feixiang Liu, Zhuo Zhang, Peipei Zhu, Liang Mao, Yihan Wen†, and Qiguang Miao
 #### Xidian University，China
-## Our code will be presented in October 2024
+## Our code will be presented in 2025
 
 ### [Paper](https://www.google.com)
-### [Code](https://github.com/LiuFxxx/T-GDCD)
+### [Code](https://github.com/LiuFxxx/IMDCD)
 ## Network Architecture
 ![输入图片说明](photos/network.png)
 ### The Variable State Space CD (VSS-CD) we proposed
