@@ -28,11 +28,11 @@ Please see ```requirements.txt``` for all the other requirements.
 ### Installation
 Clone this repo:
 ```
-git clone https://github.com/LiuFxxx/M-GDCD.git
+git clone https://github.com/LiuFxxx/IMDCD.git
 ```
 ### Setting up conda environment:
-Create a virtual ```conda``` environment named ```MGDCD``` with the following command:
+Create a virtual ```conda``` environment named ```IMDCD``` with the following command:
 ```
-conda create --name MGDCD --file requirements.txt
-conda activate MGDCD
+conda create --name IMDCD --file requirements.txt
+conda activate IMDCD
 ```
