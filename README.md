@@ -5,8 +5,6 @@
 #### Xidian University，China
 ## Our code will be presented soon
 
-### [Paper](https://www.google.com)
-### [Code](https://github.com/LiuFxxx/IMDCD)
 ## Network Architecture
 ![输入图片说明](photos/network.png)
 ### The Variable State Space CD (VSS-CD) we proposed
