@@ -1,5 +1,7 @@
 # IMDCD: Iterative Mamba Diffusion Change Detection Model for Remote Sensing
 ### Feixiang Liu Yihan Wen, Jiayi Sun, Peipei Zhu, Liang Mao, Guanchong Niu, and Jie Li*
+
+#### Shenzhen Polytechnic University，China
 #### Xidian University，China
 ## Our code will be presented soon
 
